@@ -1,6 +1,6 @@
 <html>
 <head>
-  <title>index</title>
+  <title>home page</title>
 </head>
 <body>
 <h2>Hello World to you too!</h2>
